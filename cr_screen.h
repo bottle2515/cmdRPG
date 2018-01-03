@@ -1,6 +1,9 @@
 #ifndef _CR_SCREEN_H_
 #define _CR_SCREEN_H_
 
+#include <stdio.h>
+#include <stdlib.h>
+
 /* Defines in Cr_screen */
 #define CR_SCREEN_WIDTH 80
 #define CR_SCREEN_HEIGHT 25

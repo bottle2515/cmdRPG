@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include "cr_game.h"
 
 int main()
 {
-	CrGame game;
+	crGame game;
 
 	crGame_start(&game);
 
